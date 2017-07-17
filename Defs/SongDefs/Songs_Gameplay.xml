@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SongDefs>
+
+<!-- Any time of the day -->
+	<SongDef>
+		<clipPath>AnyTime/vog_high_valley_hometown</clipPath>
+		<volume>0.85</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/vog_hurt</clipPath>
+		<volume>0.77</volume>
+	</SongDef>	
+	
+	<SongDef>
+		<clipPath>AnyTime/vog_jerry_gamblers_gang_a</clipPath>
+		<volume>0.85</volume>
+	</SongDef>	
+
+	<SongDef>
+		<clipPath>AnyTime/vog_jerry_gamblers_gang_b</clipPath>
+		<volume>0.85</volume>
+	</SongDef>	
+
+	<SongDef>
+		<clipPath>AnyTime/vog_jerry_gamblers_harper</clipPath>
+		<volume>0.85</volume>
+	</SongDef>	
+	
+	<SongDef>
+		<clipPath>AnyTime/vog_hometown_streetlife</clipPath>
+		<volume>0.82</volume>
+	</SongDef>		
+	
+	<SongDef>
+		<clipPath>AnyTime/vog_mountain_creek</clipPath>
+		<volume>0.82</volume>
+		<allowedSeasons>
+			<li>Winter</li>
+			<li>Spring</li>
+		</allowedSeasons>
+	</SongDef>	
+	
+	<SongDef>
+		<clipPath>AnyTime/vog_rain_on_lake_erie</clipPath>
+		<volume>0.75</volume>
+	</SongDef>		
+	
+	<SongDef>
+		<clipPath>AnyTime/vog_the_big_sky</clipPath>
+		<volume>0.78</volume>
+	</SongDef>	
+	
+	<SongDef>
+		<clipPath>AnyTime/vog_wilderness_a</clipPath>
+		<volume>0.92</volume>
+	</SongDef>		
+
+	<SongDef>
+		<clipPath>AnyTime/vog_wilderness_b</clipPath>
+		<volume>0.90</volume>
+	</SongDef>		
+	
+<!-- Day -->	
+	<SongDef>
+		<clipPath>Day/vog_hundreds_of_miles</clipPath>
+		<volume>0.78</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>
+	</SongDef>		
+	
+	<SongDef>
+		<clipPath>Day/vog_shady_grove</clipPath>
+		<volume>0.70</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>		
+	</SongDef>		
+	
+<!-- Night -->	
+	<SongDef>
+		<clipPath>Night/vog_water_lily</clipPath>
+		<volume>0.80</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>	
+	
+	<SongDef>
+		<clipPath>Night/vog_tranquility</clipPath>
+		<volume>0.75</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>	
+		
+<!-- Tense -->	
+	<SongDef>	
+		<clipPath>Tense/vog_happy_hour</clipPath>
+		<volume>0.70</volume>
+		<tense>true</tense>
+	</SongDef>
+	
+</SongDefs>
