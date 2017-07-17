@@ -1,7 +1,7 @@
-##Verge Of Galaxy - RimWorld music mod
+## Verge Of Galaxy - RimWorld music mod
 Music mod that adds a bunch of tracks that fits really well into the general feel of the game (at least in my opinion ;) )
 
-##Used tracks/licensing:
+## Used tracks/licensing:
 - Water Lily by Kevin MacLeod (incompetech.com),
 - Rain On Lake Erie by Purple Planet (purple-planet.com),
 - The Big Sky by Purple Planet (purple-planet.com),
