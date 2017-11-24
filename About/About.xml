@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Verge of Galaxy (Music Mod) A17.0&</name>
-  <targetVersion>0.17.1557</targetVersion>
+  <name>Verge of Galaxy (Music Mod) </name>
+  <author>Dark_Inquisitor</author>
+  <targetVersion>0.18.1722</targetVersion>
   <url>https://ludeon.com/forums/index.php?topic=30920.0</url>
   <description>
   Adds a bunch of music that fits really well into the RimWorld.
@@ -11,6 +12,8 @@
   - Rain On Lake Erie by Purple Planet (purple-planet.com),
   - The Big Sky by Purple Planet (purple-planet.com),
   - Tranquility by Purple Planet (purple-planet.com),
+  - Uluru by Purple Planet (purple-planet.com),
+  - Shifting Sands by Purple Planet (purple-planet.com),
   Licensed under Creative Commons: By Attribution 3.0
   
   - Shady Groove by Shake That Little Foot (freemusicarchive.org),
@@ -28,8 +31,6 @@
   - High Valley Hometown by Lobo Loco (freemusicarchive.org).
   Licenced under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0.
 
-  - Hundreds of Miles - public domain music
-  
   
   </description>
 </ModMetaData>

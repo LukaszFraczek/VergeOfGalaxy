@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<SongDefs>
+<Defs>
 
 <!-- Any time of the day -->
 	<SongDef>
@@ -62,12 +62,7 @@
 	</SongDef>		
 	
 <!-- Day -->	
-	<SongDef>
-		<clipPath>Day/vog_hundreds_of_miles</clipPath>
-		<volume>0.78</volume>
-		<allowedTimeOfDay>Day</allowedTimeOfDay>
-	</SongDef>		
-	
+
 	<SongDef>
 		<clipPath>Day/vog_shady_grove</clipPath>
 		<volume>0.70</volume>
@@ -80,6 +75,18 @@
 		<volume>0.80</volume>
 		<allowedTimeOfDay>Night</allowedTimeOfDay>
 	</SongDef>	
+
+	<SongDef>
+		<clipPath>Night/vog_uluru</clipPath>
+		<volume>0.75</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>	
+	
+	<SongDef>
+		<clipPath>Night/vog_shifting_sands</clipPath>
+		<volume>0.75</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
 	
 	<SongDef>
 		<clipPath>Night/vog_tranquility</clipPath>
@@ -94,4 +101,4 @@
 		<tense>true</tense>
 	</SongDef>
 	
-</SongDefs>
+</Defs>
