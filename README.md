@@ -10,7 +10,7 @@ Music by LoboLoco (www.musikbrause.de, freemusicarchive.org):
   Licenced under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
   
 Music by Kevin MacLeod (incompetech.com):
-  - Water Lily
+  - Water Lily <br>
   Licensed under Creative Commons: By Attribution 3.0
   
 Music by Purple Planet (purple-planet.com):
@@ -18,26 +18,26 @@ Music by Purple Planet (purple-planet.com):
   - The Big Sky
   - Tranquility
   - Uluru
-  - Shifting Sands
+  - Shifting Sands  <br>
   Licensed under Creative Commons: By Attribution 3.0
   
 Music by Shake That Little Foot (freemusicarchive.org):
-  - Shady Groove
+  - Shady Groove <br>
   Licensed under Attribution-NonCommercial-ShareAlike 3.0 International License.
   
 Music by Eino Toivanen (kongano.com):
-  - Wilderness
+  - Wilderness <br>
   Licenced under Creative Commons: By Attribution 4.0
   
 Music by Entertainment for the Braindead (freemusicarchive.org):
-  - Solitude
+  - Solitude <br>
   Licenced under Creative Commons: Attribution-NonCommercial-ShareAlike 3.0
   
 Music by Jason Shaw (audionautix.com,freemusicarchive.org):
   - Back To The Woods
-  - Namaste
+  - Namaste <br> <br>
   Licenced under Creative Commons: Attribution 3.0 United States
   
 Music by Simon Swerwer (soundcloud.com):
-  - The Storm And The Bounty
+  - The Storm And The Bounty <br>
   Licenced under Creative Commons: Attribution-NonCommercial-ShareAlike
