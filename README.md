@@ -10,7 +10,10 @@ Music by LoboLoco (www.musikbrause.de, freemusicarchive.org):
   Licenced under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
   
 Music by Kevin MacLeod (incompetech.com):
-  - Water Lily <br>
+  - Eastern Thought
+  - Mystic Force
+  - River Fire
+  - Send for the Horses <br>
   Licensed under Creative Commons: By Attribution 3.0
   
 Music by Purple Planet (purple-planet.com):
