@@ -79,7 +79,12 @@
 	<SongDef>
 		<clipPath>AnyTime/vog_solitude</clipPath>
 		<volume>1.00</volume>
-	</SongDef>		
+	</SongDef>	
+
+	<SongDef>
+		<clipPath>AnyTime/vog_eastern_thought</clipPath>
+		<volume>0.90</volume>
+	</SongDef>
 	
 <!-- Day -->	
 
@@ -90,12 +95,6 @@
 	</SongDef>		
 	
 <!-- Night -->	
-	<SongDef>
-		<clipPath>Night/vog_water_lily</clipPath>
-		<volume>0.80</volume>
-		<allowedTimeOfDay>Night</allowedTimeOfDay>
-	</SongDef>	
-
 	<SongDef>
 		<clipPath>Night/vog_uluru</clipPath>
 		<volume>0.75</volume>
@@ -119,6 +118,25 @@
 		<volume>0.75</volume>
 		<allowedTimeOfDay>Night</allowedTimeOfDay>
 	</SongDef>	
+
+	<SongDef>
+		<clipPath>Night/vog_river_fire</clipPath>
+		<volume>0.75</volume>
+		<allowedSeasons>
+			<li>Summer</li>
+			<li>Spring</li>
+			<li>Fall</li>
+		</allowedSeasons>
+	</SongDef>	
+	
+	<SongDef>
+		<clipPath>Night/vog_send_for_the_horses</clipPath>
+		<volume>0.70</volume>
+		<allowedSeasons>
+			<li>Winter</li>
+			<li>Fall</li>
+		</allowedSeasons>
+	</SongDef>
 	
 <!-- Tense -->	
 	<SongDef>	
@@ -133,4 +151,9 @@
 		<tense>true</tense>
 	</SongDef>	
 	
+	<SongDef>	
+		<clipPath>Tense/vog_mystic_force</clipPath>
+		<volume>0.75</volume>
+		<tense>true</tense>
+	</SongDef>
 </Defs>
